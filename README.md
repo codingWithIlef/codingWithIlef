@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codingWithIlef
 - 👀 I’m interested in creating projects that will improve my coding skills
-- 🌱 I’m currently learning WebDev, Java and ADS
+- 🌱 I’m currently learning WebDev, Java and Algorithms and Data Structures
 - 📫 How to reach me: ilef.boualleeg@gmail.com
 
 <!---
